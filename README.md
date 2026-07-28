@@ -22,6 +22,9 @@ Agent-first desktop browser designed for AI-assisted research and productivity.
 ### 🎬 Ares Video Editor
 Desktop video editor focused on fast timeline editing, FFmpeg export, and AI-powered workflows.
 
+### 🎬 PixLift
+Desktop media upscaler focused on Real-ESRGAN quality, FFmpeg pipelines, and a simple TR/EN UI.
+
 ---
 
 ## 🔬 Current Focus
